@@ -1,6 +1,6 @@
 # Spam-Filter
 
-This is an implementation of a spam filter in five different methods namely Multinomial Naive Bayes,SVM,CNN,Random Forest classifier and Gradient Boost algorithms.
+This is an implementation of a spam filter in six different methods namely Multinomial Naive Bayes,RNN,SVM,CNN,Random Forest classifier and Gradient Boost algorithms.
 The dataset is compilation of SMS or text messages which are labelled as spam or ham.
 
 The filter is built from scratch starting from Text Preprocessing,Feature Creation,Model building to Model evaluation and comparision.
